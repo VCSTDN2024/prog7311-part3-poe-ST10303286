@@ -115,12 +115,3 @@ AgriEnergyConnectPrototype/
 - Integrate mobile-responsive design for field use
 
 
-
-
-Would you like me to:
-
-- Generate a downloadable Word or PDF version of the full final report?
-- Create editable versions of the diagrams (Use Case + DFD)?
-- Format the final report according to your template?
-
-Let me know how you'd like to proceed!
